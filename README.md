@@ -12,14 +12,14 @@ This project depends on the following libraries:
 
 ## Compiling instructions
 After installing the dependencies listed above, do the following:
-1. Go to the root of this project source code
+1. Go to the top-level folder where you downloaded this project
 2. `mkdir build`
 3. `cd build`
 4. `cmake ..`
 5. `make`
 
 ## Running
-From the build directory, simply run `./bin/xplane-trajectory`
+From the build directory, simply run `./bin/xplane-trajectory`.
 Note that X-Plane must be running before executing this tool.
 
 ## Output
