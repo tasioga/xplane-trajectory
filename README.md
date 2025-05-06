@@ -11,14 +11,25 @@ This project depends on the following libraries:
 * [GeographicLib](https://geographiclib.sourceforge.io/doc/library.html)
 
 ## Compiling instructions
+After installing the dependencies listed above, do the following:
 1. Go to the root of this project source code
 2. `mkdir build`
 3. `cd build`
 4. `cmake ..`
+5. `make`
 
 ## Running
 From the build directory, simply run `./xplane-trajectory`
-Note that X-Plane must be running before executing this tool
+Note that X-Plane must be running before executing this tool.
+
+## Output
+The first frame of the trajectory should look like this:
+
+![Start position](./img/start.png)
+
+And the flight path should be straigh line over runway 30:
+
+![Flight path](./img/flight_path.png)
 
 ## Development and testing environment
 * Ubuntu 24.04
