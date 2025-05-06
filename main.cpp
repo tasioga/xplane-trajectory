@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <iomanip>
-#include "waypoint.h"
 #include "trajectory.h"
 #include "xplaneConnect/xplaneConnect.h"
 
