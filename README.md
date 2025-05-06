@@ -27,7 +27,7 @@ The first frame of the trajectory should look like this:
 
 ![Start position](./img/start.png)
 
-And the flight path should be straigh line over runway 30:
+And the flight path should be a straigh line over runway 30:
 
 ![Flight path](./img/flight_path.png)
 
