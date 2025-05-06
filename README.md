@@ -19,7 +19,7 @@ After installing the dependencies listed above, do the following:
 5. `make`
 
 ## Running
-From the build directory, simply run `./xplane-trajectory`
+From the build directory, simply run `./bin/xplane-trajectory`
 Note that X-Plane must be running before executing this tool.
 
 ## Output
